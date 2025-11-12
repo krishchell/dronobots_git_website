@@ -1,0 +1,12 @@
+```
+e:\dronobots_git_website
+│   index.html           (Home Page)
+│   courses.html         (All Courses)
+│   research.html        (Research Papers)
+│   team.html            (Team Members)
+│   README.md
+│   CNAME
+└── assets/
+      ├── style.css      (Enhanced CSS)
+      └── script.js      (Interactive JS)
+```
